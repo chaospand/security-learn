@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8531f068-e854-4ba4-a29b-22cbc683e8da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/distributed-security-uaa/target/" />
+    <ignored path="$PROJECT_DIR$/distributed-security-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/OrderServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/AuthorizationServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="76" column="61" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/service/SpringDataUserDetailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/ResourceServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/UaaServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/TokenConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/distributed-security.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AuthorizationCodeServices</find>
+      <find>pas</find>
+      <find>passwordEncoder()</find>
+      <find>tokenStore</find>
+      <find>setSig</find>
+      <find>key</find>
+      <find>String key</find>
+      <find>signingKey</find>
+      <find>AuthenticationProvider</find>
+      <find>retrieveUser</find>
+      <find>authentication</find>
+      <find>authenticationManager</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/UaaServer.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/OrderService.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/uaa/OrderService.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/OrderService.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/OrderServer.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/TokenConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/AuthorizationServer.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/service/SpringDataUserDetailService.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/test/java/BcryptTest.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-order/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/TokenConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/AuthorizationServer.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/ResourceServerConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/environment/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\environment\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="y" value="45" />
+    <option name="width" value="1755" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="distributed-security" type="58d84e3e:PackageViewProjectNode" />
+              <item name="distributed-security-order" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="58d84e3e:PackageViewProjectNode" />
+              <item name="distributed-security-order" type="616d4139:PackageViewModuleNode" />
+              <item name="com.chaosgreat.security.distributed.order" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="58d84e3e:PackageViewProjectNode" />
+              <item name="distributed-security-order" type="616d4139:PackageViewModuleNode" />
+              <item name="com.chaosgreat.security.distributed.order" type="1f31426a:PackageElementNode" />
+              <item name="config" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.1.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.1.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="userdetails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-jwt:1.0.10.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-jwt:1.0.10.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-jwt-1.0.10.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-jwt:1.0.10.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-jwt-1.0.10.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jwt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595424011891" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chaosgreat.security.distributed.uaa.config" />
+      <recent name="com.chaosgreat.security.distributed.order" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mine\distributed-security\distributed-security-order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderServer">
+    <configuration name="OrderServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chaosgreat.security.distributed.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chaosgreat.security.distributed.order.OrderServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chaosgreat.security.distributed.uaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chaosgreat.security.distributed.uaa.UaaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderServer" />
+        <item itemvalue="Spring Boot.UaaServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8531f068-e854-4ba4-a29b-22cbc683e8da" name="Default Changelist" comment="" />
+      <created>1594467984521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594467984521</updated>
+      <workItem from="1594467986972" duration="4198000" />
+      <workItem from="1594472234554" duration="7702000" />
+      <workItem from="1594555412008" duration="6218000" />
+      <workItem from="1594643146739" duration="942000" />
+      <workItem from="1594901431400" duration="5071000" />
+      <workItem from="1594906559333" duration="253000" />
+      <workItem from="1594947352098" duration="502000" />
+      <workItem from="1594994686119" duration="7301000" />
+      <workItem from="1595117493873" duration="9717000" />
+      <workItem from="1595249742344" duration="948000" />
+      <workItem from="1595418593929" duration="4126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46978000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.41312057" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5012126" side_tool="true" weight="0.43439716" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25464836" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter</OriginalElement>
+          <nodes>
+            <node x="23.5" y="0.0">org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurer</node>
+            <node x="0.0" y="81.0">org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter" target="org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurer">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-128.0" y="87.0" />
+          <SelectedNodes>
+            <node>org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/provider/ClientDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/5.1.4.RELEASE/spring-security-crypto-5.1.4.RELEASE.jar!/org/springframework/security/crypto/password/NoOpPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.security.crypto.password.PasswordEncoder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.security.crypto.password.PasswordEncoder</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.security.crypto.password.PasswordEncoder</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="150" column="77" selection-start-line="150" selection-start-column="77" selection-end-line="150" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="162" column="32" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/5.1.4.RELEASE/spring-security-crypto-5.1.4.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/5.1.4.RELEASE/spring-security-crypto-5.1.4.RELEASE.jar!/org/springframework/security/crypto/password/PasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/test/java/BcryptTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/TokenStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="178" column="22" selection-start-line="178" selection-start-column="12" selection-end-line="178" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/TokenConfig.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/AuthorizationServer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/AccessTokenConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/TokenEnhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtTokenStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <element signature="e#2435#2436#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.chaosgreat.security:distributed-security-uaa:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.chaosgreat.security:distributed-security-uaa:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.chaosgreat.security:distributed-security-uaa:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.3.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.3.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.3.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60/org.bouncycastle:bcprov-jdk15on:jar:1.60</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.3.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.3.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.code.findbugs:jsr305:jar:3.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.3.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.3.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-core:jar:1.5.18</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-core:jar:1.5.18/com.netflix.archaius:archaius-core:jar:0.4.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-core:jar:1.5.18/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-serialization:jar:1.5.18</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-serialization:jar:1.5.18/com.fasterxml.jackson.module:jackson-module-afterburner:jar:2.9.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-serialization:jar:1.5.18/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/com.netflix.hystrix:hystrix-metrics-event-stream:jar:1.5.18</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/io.reactivex:rxjava-reactive-streams:jar:1.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:2.1.3.RELEASE/io.reactivex:rxjava-reactive-streams:jar:1.2.1/org.reactivestreams:reactive-streams:jar:1.0.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-servo:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-servo:jar:0.4.9/com.netflix.servo:servo-core:jar:0.7.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.hystrix:hystrix-core:jar:1.4.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/io.reactivex:rxnetty:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/org.apache.httpcomponents:httpclient:jar:4.5.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/org.apache.httpcomponents:httpclient:jar:4.5.7/org.apache.httpcomponents:httpcore:jar:4.4.11</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1/com.sun.jersey:jersey-core:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1/com.sun.jersey:jersey-core:jar:1.19.1/javax.ws.rs:jsr311-api:jar:1.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.3.RELEASE/io.reactivex:rxjava:jar:1.3.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.1.3.RELEASE/io.github.openfeign.form:feign-form-spring:jar:3.8.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.1.3.RELEASE/io.github.openfeign.form:feign-form-spring:jar:3.8.0/io.github.openfeign.form:feign-form:jar:3.8.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.1.3.RELEASE/io.github.openfeign.form:feign-form-spring:jar:3.8.0/commons-fileupload:commons-fileupload:jar:1.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-openfeign-core:jar:2.1.3.RELEASE/io.github.openfeign.form:feign-form-spring:jar:3.8.0/commons-fileupload:commons-fileupload:jar:1.4/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework:spring-web:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.1.3.RELEASE/org.springframework.security:spring-security-crypto:jar:5.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/io.github.openfeign:feign-core:jar:10.2.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/io.github.openfeign:feign-slf4j:jar:10.2.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-openfeign:jar:2.1.3.RELEASE/io.github.openfeign:feign-hystrix:jar:10.2.3</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/org.aspectj:aspectjrt:jar:1.9.2</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">com.netflix.hystrix:hystrix-javanica:jar:1.5.18/com.google.code.findbugs:jsr305:jar:2.0.0</node>
+            <node x="" y="">org.springframework.retry:spring-retry:jar:1.2.4.RELEASE</node>
+            <node x="" y="">org.springframework.retry:spring-retry:jar:1.2.4.RELEASE/org.springframework:spring-core:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.retry:spring-retry:jar:1.2.4.RELEASE/org.springframework:spring-core:jar:5.1.5.RELEASE/org.springframework:spring-jcl:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.3.RELEASE/org.springframework:spring-context:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/io.micrometer:micrometer-core:jar:1.1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE/io.micrometer:micrometer-core:jar:1.1.3/org.latencyutils:LatencyUtils:jar:2.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.14.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.14.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.14.Final/com.fasterxml:classmate:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework:spring-webmvc:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework:spring-webmvc:jar:5.1.5.RELEASE/org.springframework:spring-aop:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE/org.springframework:spring-webmvc:jar:5.1.5.RELEASE/org.springframework:spring-expression:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.3.RELEASE/org.freemarker:freemarker:jar:2.3.28</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.3.RELEASE/org.springframework:spring-context-support:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-commons:jar:2.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-commons:jar:2.1.5.RELEASE/org.springframework:spring-beans:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-commons:jar:2.1.5.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-security:jar:unknown</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-oauth2:jar:unknown</node>
+            <node x="" y="">org.springframework.security:spring-security-jwt:jar:unknown</node>
+            <node x="" y="">javax.interceptor:javax.interceptor-api:jar:unknown</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.3.RELEASE/com.zaxxer:HikariCP:jar:3.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.3.RELEASE/org.springframework:spring-jdbc:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.3.RELEASE/org.springframework:spring-jdbc:jar:5.1.5.RELEASE/org.springframework:spring-tx:jar:5.1.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-dependencies:pom:Greenwich.RELEASE</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.18.10</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.47</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/com.sun.xml.bind:jaxb-core:jar:2.3.0.1</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/com.sun.xml.bind:jaxb-impl:jar:2.3.0.1</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/javax.xml.bind:jaxb-api:jar:2.3.1</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/javax.xml.bind:jaxb-api:jar:2.3.1/javax.activation:javax.activation-api:jar:1.2.0</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.3.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/org.springframework.security:spring-security-core:jar:5.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/org.springframework.security:spring-security-config:jar:5.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/org.springframework.security:spring-security-web:jar:5.1.4.RELEASE</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security.oauth:spring-security-oauth2:jar:2.3.5.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="" y="">org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:jar:2.1.3.RELEASE/org.springframework.security:spring-security-jwt:jar:1.0.10.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-jwt:jar:1.0.10.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-jwt:jar:1.0.10.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60</node>
+            <node x="" y="">org.springframework.security:spring-security-jwt:jar:1.0.10.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60/org.bouncycastle:bcprov-jdk15on:jar:1.60</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.0408562313471236" x="4849.0" y="1086.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-jwt/1.0.10.RELEASE/spring-security-jwt-1.0.10.RELEASE.jar!/org/springframework/security/jwt/crypto/sign/MacSigner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="72" selection-start-line="72" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar!/org/springframework/security/authentication/AuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/environment/jdk8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="509" column="26" selection-start-line="509" selection-start-column="26" selection-end-line="509" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="165" column="42" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/service/SpringDataUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/TokenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/config/AuthorizationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/chaosgreat/security/distributed/uaa/UaaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/OrderServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/chaosgreat/security/distributed/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
